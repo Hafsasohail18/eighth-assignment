@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-image: url(1.jpg);
+}
+body>h1 {
+    color: rgb(66, 30, 4);
+    text-align: center;
+    font-size: 60px;
+    text-decoration: double underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    display: inline-block;
+    font-size: 60px;
+    border:2px solid chocolate;
+    background-color: chocolate;
+    padding: 30px;
+    margin: 10px;
+    width: 100px;
+}
+h3 {
+    display:inline-block;
+    font-size: 100px;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  button {
+      background-color: bisque;
+      font-size: 25px;
+      color: black;
+      margin: 30px;
+      border: 8px solid rgb(66, 30, 4) ;
+
+  }
+  button:hover {
+      background-color: chocolate;
+      font-size: 35px;
+  }
+
+  em {
+      font-size: 50px;
+      color: rgba(0, 0, 0, 0.788);
+  }
